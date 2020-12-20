@@ -1,8 +1,4 @@
-# Covid-App
-
-================================================
-                 COVID COUNTER
-================================================
+# Covid Counter
 
 CPSC-349 Web Front-End Engineering
 Project 2
