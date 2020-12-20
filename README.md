@@ -9,7 +9,7 @@ Project 2
 Team.js
 
 Richard Stanely
-
+audstanley@gmail.com
 
 Chase Huante
 cdhuante@csu.fullerton.edu
